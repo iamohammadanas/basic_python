@@ -1,0 +1,12 @@
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paint0" x1="0" y1="0" x2="140" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5CC8FF"/>
+      <stop offset="1" stop-color="#7B7BFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="138" height="38" rx="12" stroke="url(#paint0)" stroke-width="2"/>
+  <path d="M20 26V14H25.5C28.5376 14 30.5 15.9624 30.5 19C30.5 22.0376 28.5376 24 25.5 24H23.2V26H20ZM23.2 21.5H25.2C26.522 21.5 27.5 20.522 27.5 19.2C27.5 17.878 26.522 16.9 25.2 16.9H23.2V21.5Z" fill="url(#paint0)"/>
+  <path d="M37 26L41.8 14H45.3L50 26H46.9L46.1 23.9H40.8L40 26H37ZM41.6 21.4H45.4L43.5 16.6L41.6 21.4Z" fill="#F5F7FF"/>
+  <text x="56" y="25" fill="#F5F7FF" font-family="Manrope, sans-serif" font-size="16" font-weight="700">Shanamin</text>
+</svg>
